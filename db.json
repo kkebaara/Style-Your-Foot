@@ -2,10 +2,10 @@
 "Shoes": [
     {
       "id": 1,
-      "model": “Merrel Moab 2 WP",
+      "model":  "Merrel Moab 2 WP",
       "activity": "hiking",
       "image": "",
-      "resistance": “waterproof”,
+      "resistance": "rain",
       "color": "brown"
     },
     {
@@ -13,7 +13,7 @@
         "model": "Merrel Moab 2 Vent",
         "Activity": "hiking",
         "image": "",
-        "resistace": "notWaterproof,
+        "resistace": "sun",
         "color": "gray"
     },
     {
@@ -21,7 +21,7 @@
         "model": "Keen Targhee 3",
         "activity": "hiking",
         "image": "",
-        "resistance": "waterproof",
+        "resistance": "rain",
         "color": "brown"
     },
     {
@@ -29,7 +29,7 @@
         "model": "Oboz Sawtooth 2 Low",
         "activity": "hiking",
         "image": "",
-        "resistance": "notWaterproof",
+        "resistance": "sun",
         "color": "brown"
     },
     {
@@ -37,7 +37,7 @@
         "model": "Vans Half Cab",
         "activity": "skateboarding",
         "image": "",
-        "resistance": "notWaterproof",
+        "resistance": "sun",
         "color": "black"
     },
     {
@@ -45,7 +45,7 @@
         "model": "Astral Loyak",
         "activity": "kayaking",
         "image": "",
-        "resistance": "notWaterproof",
+        "resistance": "rain",
         "color": "green"
     },
     {
@@ -53,7 +53,7 @@
         "model": "Altra Escalante",
         "activity": "running",
         "image": "",
-        "resistance": "notWaterproof",
+        "resistance": "sun",
         "color": "black"
     },
     {
@@ -61,7 +61,7 @@
         "model": "Merrel Jungle Moc WP",
         "activity": "walking",
         "image": "",
-        "resistance": waterproof",
+        "resistance": "rain",
         "color": "black"
     },
     {
@@ -69,7 +69,7 @@
         "model": "Saucony Jazz",
         "activity": "walking",
         "image": "",
-        "resistance": "notWaterproof",
+        "resistance": "sun",
         "color": "blue"
     },
     {
@@ -77,8 +77,144 @@
         "model": "Xero Aqua X Sport",
         "activity": "kayaking",
         "image": "",
-        "resistance": "notWaterproof",
+        "resistance": "sun",
         "color": "black"
+    },
+    {
+        "id": "11",
+        "model": "Altra Lone Peak All-Weather",
+        "activity": "hiking",
+        "image": "",
+        "resistance": "rain",
+        "color": "black"
+    },
+    {
+        "id": "12",
+        "model": "Vasque Clarion /'88 GTX",
+        "activity": "hiking",
+        "image": "",
+        "resistance": "rain",
+        "color": "blue"
+    },
+    {
+        "id": "13",
+        "model": "LaSportiva Nucleo High GTX",
+        "activity": "hiking",
+        "image": "",
+        "resistance": "rain",
+        "color": "green"
+    },
+    {
+        "id": "14",
+        "model": "Emerica Romeo Americana",
+        "activity": "skateboarding",
+        "image": "",
+        "resistance": "sun",
+        "color": "blue"
+    },
+    {
+        "id": "15",
+        "model": "Emerica Romeo Laced High",
+        "activity": "skateboarding",
+        "image": "",
+        "resistance": "sun",
+        "color": "gray"
+    },
+    {
+        "id": "16",
+        "model": "Etnies Jameson 2 Eco",
+        "activity": "skateboarding",
+        "image": "",
+        "resistance": "sun",
+        "color": "green"
+    },
+    {
+        "id": "17",
+        "model": "Etnies Jameson 2 Eco",
+        "activity": "skateboarding",
+        "image": "",
+        "resistance": "sun",
+        "color": "brown"
+    },
+    {
+        "id": "18",
+        "model": "NRS Arroyo Wetshoes",
+        "activity": "kayaking",
+        "image": "",
+        "resistance": "rain",
+        "color": "blue"
+    },
+    {
+        "id": "19",
+        "model": "Kokatat Scout Paddling",
+        "activity": "kayaking",
+        "image": "",
+        "resistance": "sun",
+        "color": "gray"
+    },
+    {
+        "id": "20",
+        "model": "Astral Brewer 2.0",
+        "activity": "kayaking",
+        "image": "",
+        "resistance": "rain",
+        "color": "brown"
+    },
+    {
+        "id": "21",
+        "model": "Hoka One One Bondi 7",
+        "activity": "running",
+        "image": "",
+        "resistance": "sun",
+        "color": "blue"
+    },
+    {
+        "id": "22",
+        "model": "Hoke One One Clifton 8",
+        "activity": "running",
+        "image": "",
+        "resistance": "sun",
+        "color": "gray"
+    },
+    {
+        "id": "23",
+        "model": "Brooks Ghost 14",
+        "activity": "running",
+        "image": "",
+        "resistance": "sun",
+        "color": "brown"
+    },
+    {
+        "id": "24",
+        "model": "Altra Provision 6",
+        "activity": "running",
+        "image": "",
+        "resistance": "sun",
+        "color": "green"
+    },
+    {
+        "id": "25",
+        "model": "Saucony Shadow",
+        "activity": "walking",
+        "image": "",
+        "resistance": "sun",
+        "color": "gray"
+    },
+    {
+        "id": "26",
+        "model": "On Running Cloud",
+        "activity": "walking",
+        "image": "",
+        "resistance": "sun",
+        "color": "green"
+    },
+    {
+        "id": "27",
+        "model": "On Running Cloudventure WP",
+        "activity": "walking",
+        "image": "",
+        "resistance": "rain",
+        "color": "brown"
     }
 ]
 }
