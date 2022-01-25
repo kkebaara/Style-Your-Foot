@@ -1,3 +1,4 @@
+{
 "Shoes": [
     {
       "id": 1,
@@ -13,7 +14,7 @@
         "Activity": "hiking",
         "image": "",
         "resistace": "notWaterproof,
-        "color": "gray",
+        "color": "gray"
     },
     {
         "id": 3,
@@ -21,7 +22,7 @@
         "activity": "hiking",
         "image": "",
         "resistance": "waterproof",
-        "color": "brown",
+        "color": "brown"
     },
     {
         "id": "4",
@@ -29,7 +30,7 @@
         "activity": "hiking",
         "image": "",
         "resistance": "notWaterproof",
-        "color": "brown",
+        "color": "brown"
     },
     {
         "id": "5",
@@ -37,7 +38,7 @@
         "activity": "skateboarding",
         "image": "",
         "resistance": "notWaterproof",
-        "color": "black",
+        "color": "black"
     },
     {
         "id": "6",
@@ -45,7 +46,7 @@
         "activity": "kayaking",
         "image": "",
         "resistance": "notWaterproof",
-        "color": "green",
+        "color": "green"
     },
     {
         "id": "7",
@@ -53,7 +54,7 @@
         "activity": "running",
         "image": "",
         "resistance": "notWaterproof",
-        "color": "black",
+        "color": "black"
     },
     {
         "id": "8",
@@ -61,7 +62,7 @@
         "activity": "walking",
         "image": "",
         "resistance": waterproof",
-        "color": "black",
+        "color": "black"
     },
     {
         "id": "9",
@@ -69,7 +70,7 @@
         "activity": "walking",
         "image": "",
         "resistance": "notWaterproof",
-        "color": "blue",
+        "color": "blue"
     },
     {
         "id": "10",
@@ -77,6 +78,8 @@
         "activity": "kayaking",
         "image": "",
         "resistance": "notWaterproof",
-        "color": "black",
-    },
+        "color": "black"
+    }
+]
+}
 
