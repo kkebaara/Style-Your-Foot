@@ -1,3 +1,112 @@
+
+.dropbtnact {
+    background-color: #04AA6D;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+  }
+  
+  .dropdownact {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .Dropdown-content-act {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .Dropdown-content-act a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .Dropdown-content-act a:hover {background-color: #ddd;}
+  
+  .dropdownact:hover .Dropdown-content-act {display: block;}
+  
+  .dropdownact:hover .dropbtnact {background-color: #3e8e41;}
+
+
+  .dropbtnweath {
+    background-color: #04AA6D;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+  }
+  
+  .dropdownweath {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .Dropdown-content-weath {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .Dropdown-content-weath a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .Dropdown-content-weath a:hover {background-color: #ddd;}
+  
+  .dropdownweath:hover .Dropdown-content-weath {display: block;}
+  
+  .dropdownweath:hover .dropbtnweath {background-color: #3e8e41;}
+
+  .dropbtncolor {
+    background-color: #04AA6D;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+  }
+  
+  .dropdowncolor {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .Dropdown-content-color {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .Dropdown-content-color a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .Dropdown-content-color a:hover {background-color: #ddd;}
+  
+  .dropdowncolor:hover .Dropdown-content-color {display: block;}
+  
+  .dropdowncolor:hover .dropbtncolor {background-color: #3e8e41;}
+
+
+ 
 body {
     background-color: #3b1414;
   }
