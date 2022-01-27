@@ -11,41 +11,33 @@
 
 <body>
   <div class="Headers">
-    <form id="new-name">
-      <label for="name">Your Name: </label>
-      <input type="text" name="name" id="new-name" />
-    </form>
-    <div class="dropdownact">
-      <button class="dropbtnact">Activity</button>
-      <div class="Dropdown-content-act">
-        <a href="#">Hiking</a>
-        <a href="#">Kayaking</a>
-        <a href="#">Running</a>
-        <a href="#">Kayaking</a>
-        <a href="#">Skateboarding</a>
-      </div>
-    </div>
-    <div class="dropdownweath">
-      <button class="dropbtnweath">Weather</button>
-      <div class="Dropdown-content-weath">
-        <a href="#">Rain</a>
-        <a href="#">Sun</a>
-      </div>
-    </div>
-
-    <div class="dropdowncolor">
-      <button class="dropbtncolor">Color</button>
-      <div class="Dropdown-content-color">
-        <a href="#">Brown</a>
-        <a href="#">Gray</a>
-        <a href="#">Green</a>
-        <a href="#">Blue</a>
-        <a href="#">Black</a>
-      </div>
-    </div>
-  </div>
-  
-  <input type="submit" value="Your Pair" />
+    <form action="#">
+      <label for="act">Activity</label>
+      <select name="Activites" id="activ">
+        <option value="Activity">Select a Activity</option>
+        <option value="Activity 1">Hiking</option>
+        <option value="Activity 2">Kayaking</option>
+        <option value="Activity 3">Running</option>
+        <option value="Activity 4">Skateboarding</option>
+        <option value="Activity 5">Activity 5</option>
+      </select>
+      <label for="weath">Weather</label>
+      <select name="weather" id="weat">
+        <option value="Weather">Select a Weather Type</option>
+        <option value="Weather 1">Rain</option>
+        <option value="Weather 2">Sun</option>
+      </select>
+      <label for="colo">Color</label>
+      <select name="Color" id="col">
+        <option value="Color">Select a Color</option>
+        <option value="Color 1">Brown</option>
+        <option value="Color 2">Grey</option>
+        <option value="Color 3">Blue</option>
+        <option value="Color 4">Green</option>
+        <option value="Color 5">Black</option>
+      </select>
+      <input type="submit" value="Your Pair" />
+</form>
 </div>
 
       <!-- shoe image -->
