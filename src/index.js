@@ -10,4 +10,5 @@ function displayPoster (poster)
 //function activityMenu() {  
     //const activity = document.getElementById("activity");  
     //document.getElementById("activity").value = activity.options[activity.selectedIndex].text;  
-}  
+
+}
