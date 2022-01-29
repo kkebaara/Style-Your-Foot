@@ -4,23 +4,23 @@
       "id": 1,
       "model":  "Merrel Moab 2 WP",
       "activity": "hiking",
-      "image": "Moab2WP.jpeg",
+      "image": "./images/Moab2WP.jpeg",
       "resistance": "rain",
       "color": "brown"
     },
     {
         "id": 2,
         "model": "Merrel Moab 2 Vent",
-        "Activity": "hiking",
-        "image": "Moab2Vent.jpeg",
-        "resistace": "sun",
-        "color": "gray"
+        "activity": "hiking",
+        "image": "./images/Moab2Vent.jpeg",
+        "resistance": "sun",
+        "color": "grey"
     },
     {
         "id": 3,
         "model": "Keen Targhee 3",
         "activity": "hiking",
-        "image": "KeenTarWP.jpeg",
+        "image": "./images/KeenTarWP.jpeg",
         "resistance": "rain",
         "color": "brown"
     },
@@ -28,7 +28,7 @@
         "id": "4",
         "model": "Oboz Sawtooth 2 Low",
         "activity": "hiking",
-        "image": "OboSaw2.jpeg",
+        "image": "./images/OboSaw2.jpeg",
         "resistance": "sun",
         "color": "brown"
     },
@@ -36,7 +36,7 @@
         "id": "5",
         "model": "Vans Half Cab",
         "activity": "skateboarding",
-        "image": "VansHalfCab.jpeg",
+        "image": "./images/VansHalfCab.jpeg",
         "resistance": "sun",
         "color": "black"
     },
@@ -44,7 +44,7 @@
         "id": "6",
         "model": "Astral Loyak",
         "activity": "kayaking",
-        "image": "AstraLoyak.jpeg",
+        "image": "./images/AstraLoyak.jpeg",
         "resistance": "rain",
         "color": "green"
     },
@@ -52,7 +52,7 @@
         "id": "7",
         "model": "Altra Escalante",
         "activity": "running",
-        "image": "AltraEscala2.jpeg",
+        "image": "./images/AltraEscala2.jpeg",
         "resistance": "sun",
         "color": "black"
     },
@@ -60,7 +60,7 @@
         "id": "8",
         "model": "Merrel Jungle Moc WP",
         "activity": "walking",
-        "image": "MerJunMoc.jpeg",
+        "image": "./images/MerJunMoc.jpeg",
         "resistance": "rain",
         "color": "black"
     },
@@ -68,7 +68,7 @@
         "id": "9",
         "model": "Saucony Jazz",
         "activity": "walking",
-        "image": "SaucoJazz.jpeg",
+        "image": "./images/SaucoJazz.jpeg",
         "resistance": "sun",
         "color": "blue"
     },
@@ -76,7 +76,7 @@
         "id": "10",
         "model": "Xero Aqua X Sport",
         "activity": "kayaking",
-        "image": "XeroAquaSpor.jpeg",
+        "image": "./images/XeroAquaSpor.jpeg",
         "resistance": "sun",
         "color": "black"
     },
@@ -84,7 +84,7 @@
         "id": "11",
         "model": "Altra Lone Peak All-Weather",
         "activity": "hiking",
-        "image": "AltraLoPeakMidWP.jpeg",
+        "image": "./images/AltraLoPeakMidWP.jpeg",
         "resistance": "rain",
         "color": "black"
     },
@@ -92,7 +92,7 @@
         "id": "12",
         "model": "Vasque Clarion /'88 GTX",
         "activity": "hiking",
-        "image": "VasClario88WP.jpeg",
+        "image": "./images/VasClario88WP.jpeg",
         "resistance": "rain",
         "color": "blue"
     },
@@ -100,7 +100,7 @@
         "id": "13",
         "model": "LaSportiva Nucleo High GTX",
         "activity": "hiking",
-        "image": "LaSpoNucleoWP.jpeg",
+        "image": ".images/LaSpoNucleoWP.jpeg",
         "resistance": "rain",
         "color": "green"
     },
@@ -108,7 +108,7 @@
         "id": "14",
         "model": "Emerica Romeo Americana",
         "activity": "skateboarding",
-        "image": "EmeriAmeri.jpeg",
+        "image": "./images/EmeriAmeri.jpeg",
         "resistance": "sun",
         "color": "blue"
     },
@@ -116,7 +116,7 @@
         "id": "15",
         "model": "Emerica Romeo Laced High",
         "activity": "skateboarding",
-        "image": "EmeriRomeMid.jpeg",
+        "image": "./images/EmeriRomeMid.jpeg",
         "resistance": "sun",
         "color": "gray"
     },
@@ -124,7 +124,7 @@
         "id": "16",
         "model": "Etnies Jameson 2 Eco",
         "activity": "skateboarding",
-        "image": "EtnieJame2Eco.jpeg",
+        "image": "./images/EtnieJame2Eco.jpeg",
         "resistance": "sun",
         "color": "green"
     },
@@ -132,7 +132,7 @@
         "id": "17",
         "model": "Etnies Jameson 2 Eco",
         "activity": "skateboarding",
-        "image": "EtnieJame2EcoBr.jpeg",
+        "image": "./images/EtnieJame2EcoBr.jpeg",
         "resistance": "sun",
         "color": "brown"
     },
@@ -140,7 +140,7 @@
         "id": "18",
         "model": "NRS Arroyo Wetshoes",
         "activity": "kayaking",
-        "image": "NrsArroWetshoe.jpeg",
+        "image": "./images/NrsArroWetshoe.jpeg",
         "resistance": "rain",
         "color": "blue"
     },
@@ -148,7 +148,7 @@
         "id": "19",
         "model": "Kokatat Scout Paddling",
         "activity": "kayaking",
-        "image": "KokaScouPddl.jpeg",
+        "image": "./images/KokaScouPddl.jpeg",
         "resistance": "sun",
         "color": "gray"
     },
@@ -156,7 +156,7 @@
         "id": "20",
         "model": "Astral Brewer 2.0",
         "activity": "kayaking",
-        "image": "AstralBrew2.jpeg",
+        "image": "./images/AstralBrew2.jpeg",
         "resistance": "rain",
         "color": "brown"
     },
@@ -164,7 +164,7 @@
         "id": "21",
         "model": "Hoka One One Bondi 7",
         "activity": "running",
-        "image": "HokaBondi7.jpeg",
+        "image": "./images/HokaBondi7.jpeg",
         "resistance": "sun",
         "color": "blue"
     },
@@ -172,7 +172,7 @@
         "id": "22",
         "model": "Hoke One One Clifton 8",
         "activity": "running",
-        "image": "HokaClift8.jpeg",
+        "image": "./images/HokaClift8.jpeg",
         "resistance": "sun",
         "color": "gray"
     },
@@ -180,7 +180,7 @@
         "id": "23",
         "model": "Brooks Ghost 14",
         "activity": "running",
-        "image": "BrooGhost14.jpeg",
+        "image": "./images/BrooGhost14.jpeg",
         "resistance": "sun",
         "color": "brown"
     },
@@ -188,7 +188,7 @@
         "id": "24",
         "model": "Altra Provision 6",
         "activity": "running",
-        "image": "AltraProv6.jpeg",
+        "image": "./images/AltraProv6.jpeg",
         "resistance": "sun",
         "color": "green"
     },
@@ -196,7 +196,7 @@
         "id": "25",
         "model": "Saucony Shadow",
         "activity": "walking",
-        "image": "SaucoShado.jpeg",
+        "image": "./images/SaucoShado.jpeg",
         "resistance": "sun",
         "color": "gray"
     },
@@ -204,7 +204,7 @@
         "id": "26",
         "model": "On Running Cloud",
         "activity": "walking",
-        "image": "OnCloud.jpeg",
+        "image": "./images/OnCloud.jpeg",
         "resistance": "sun",
         "color": "green"
     },
@@ -212,7 +212,7 @@
         "id": "27",
         "model": "On Running Cloudventure WP",
         "activity": "walking",
-        "image": "OnCouldVenWP.jpeg",
+        "image": "./images/OnCouldVenWP.jpeg",
         "resistance": "rain",
         "color": "brown"
     }
